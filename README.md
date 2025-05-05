@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a College Student**
+ 🔭 I’m currently a student on **Ateneo De Davao University**
  
  🌱 I’m currently learning **Kali Linux, M.E.R.N, CTF(Capture the Flag)**
 
