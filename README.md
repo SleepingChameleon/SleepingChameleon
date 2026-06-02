@@ -27,9 +27,9 @@
   <img src="https://i.postimg.cc/dVkFKpH4/1000021660-removebg-preview.png" width="170" align="right" style="margin-left: 15px;">
   
   <h3>Top Projects (built during my collaboration in college)</h3>
-  <a href="https://github.com/Khesir/HiveManage"></a>&nbsp; A Centralize POS and Inventory System.<br>
-  <a href="https://github.com/SleepingChameleon/AirWatch"></a>&nbsp; A project that monitor environmental factos built with C++ and ESP32<br>
-  <a href="https://github.com/Khesir/Thesisv2"></a>&nbsp; A collaborative project for our Thesis, A chatbot built in RAG.
+  <a href="https://github.com/Khesir/HiveManage"><img src="https://img.shields.io/badge/HiveManage-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A Centralize POS and Inventory System.<br>
+  <a href="https://github.com/SleepingChameleon/AirWatch"><img src="https://img.shields.io/badge/AirWatchV.1-000000?style=for-the badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A project that monitor environmental factos built with C++ and ESP32<br>
+  <a href="https://github.com/Khesir/Thesisv2"><img src="https://img.shields.io/badge/AgriBot-000000?style=for-the badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A collaborative project for our Thesis, A chatbot built in RAG.
 
   
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
