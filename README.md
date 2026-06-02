@@ -62,12 +62,6 @@
 <br clear="right"/>
 <br>
 
-<div align="center">
-  <img src="https://i.postimg.cc/rsR3Knzs/Whats-App-Image-2026-03-05-at-11-05-19-PM.jpg" width="100%">
-  
-  <br>
-</div>
-
 <br><br>
 
 <div align="center">
