@@ -1,6 +1,6 @@
-<a href="https://github.com/Synaptara">
-  <img src="<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/c11f10e4-3955-4d30-bfaa-e3de073ca18e" />
-" width="100%" alt="Synaptara Banner"/>
+<a href="https://github.com/SleepingChameleon">
+  <img src="https://github.com/user-attachments/assets/c11f10e4-3955-4d30-bfaa-e3de073ca18e" />
+" width="100%" alt="Rey Banner"/>
 </a>
 
 <div align="center">
