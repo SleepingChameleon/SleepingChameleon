@@ -1,5 +1,5 @@
 <a href="https://github.com/SleepingChameleon">
-  <img src="https://github.com/user-attachments/assets/c11f10e4-3955-4d30-bfaa-e3de073ca18e" width="100%" alt="Rey Banner"/>
+  <img src="https://github.com/user-attachments/assets/85661b28-62d5-47b7-a8e7-e3364ed08cf6" width="100%" alt="Rey Banner"/>
 </a>
 
 <div align="center">
