@@ -28,7 +28,7 @@
   
   <h3>Top Projects (built during my collaboration in college)</h3>
   <a href="https://github.com/Khesir/HiveManage"><img src="https://img.shields.io/badge/HiveManage-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A Centralize POS and Inventory System.<br>
-  <a href="https://github.com/SleepingChameleon/AirWatch"><img src="https://img.shields.io/badge/AirWatchV.1-000000?style=for-the badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A project that monitor environmental factos built with C++ and ESP32<br>
+  <a href="https://github.com/SleepingChameleon/AirWatch"><img src="https://img.shields.io/badge/AirWatchV.1-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A project that monitor environmental factos built with C++ and ESP32<br>
   <a href="https://github.com/Khesir/Thesisv2"><img src="https://img.shields.io/badge/AgriBot-000000?style=for-the badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A collaborative project for our Thesis, A chatbot built in RAG.
 
   
